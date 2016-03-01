@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: Helvetica;
+  font-size: initial;
+}
+
+h1 {
+  text-transform: capitalize;
+  text-align: center;
+  font-family:cursive,Georgia,Serif;
+  font-size: 2em;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+section {
+/*  position: relative;*/
+  border: 1px solid black;
+  margin: 7px;
+  background: #CCCCCC;
+  color: black;
+  height: 100%
+}
+
+h2 {
+  width: 33%;
+  margin: 10px auto;
+  padding: 2px 0;
+  font-size: 1.50em;
+
+  text-transform: capitalize;
+  text-align: center;
+  
+}
+
+p {
+  margin-top: 5px;
+  padding: 15px;
+  padding-bottom: 15px;
+}
